@@ -1,3 +1,3 @@
-# AdvSmear: Black-Box Evolutionary Generation of Naturalistic Smear-Like Adversarial Examples for License Plate Recognition
+# Evaluating physically realizable adversarial visual attack to license plate recognition in black-box settings
 
-The code will be made publicly available upon acceptance of the manuscript in Expert Systems With Applications. 
+The code will be made publicly available soon. 
